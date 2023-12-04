@@ -29,5 +29,5 @@ Now Let's take about the final part wich is the Functionality
 ## Finally
 This project is a lot of fun to play around with I would give it a try if I were you
 ### Links
-You can find the code for this project in this link on my github [Visit My Github](https://github.com/Abdulrhman567/MCQ-Langchain-App)
+You can find the code for this project in this link on my github [Visit My Project](https://github.com/Abdulrhman567/MCQ-Langchain-App)
 - 
